@@ -1,0 +1,5 @@
+.space
+.env
+.deta
+__pycache__
+newrelic.ini
